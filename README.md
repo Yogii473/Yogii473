@@ -1,6 +1,6 @@
 💻 About Me
 
-Salesforce Developer with 2+ years of experience in Apex, LWC, Batch Apex, and REST integrations. Passionate about building scalable CRM solutions and clean architectures that make business workflows smarter and faster.
+Salesforce Developer with 4+ years of experience in Apex, LWC, Batch Apex, and REST integrations. Passionate about building scalable CRM solutions and clean architectures that make business workflows smarter and faster.
 
 🧠 What I Do
 - 💼 Design and develop Salesforce applications with modular, maintainable code
