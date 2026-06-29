@@ -1,26 +1,68 @@
-💻 About Me
+# Hey 👋 I'm Yogii
 
-Salesforce Developer with 4+ years of experience in Apex, LWC, Batch Apex, and REST integrations. Passionate about building scalable CRM solutions and clean architectures that make business workflows smarter and faster.
+> Building today. Architecting tomorrow.
 
-🧠 What I Do
-- 💼 Design and develop Salesforce applications with modular, maintainable code
-- ⚙️ Work with asynchronous Apex and integration patterns
-- 🧩 Build modern UIs using Lightning Web Components (LWC)
-- 👕 Exploring ideas for a T-shirt brand combining art, anime, and tech
+## 🚀 About Me
 
-🚀 What I’m Learning
+I'm an Integration Specialist with a Salesforce development background, currently diving deep into backend engineering, cloud infrastructure, and system architecture.
 
-- Expanding into Flutter and modern app development frameworks
-- Learning server hosting and deployment concepts
+My goal isn't just to write code—it's to understand how entire systems work and build products that scale.
 
-🌱 Goals
+Currently on my learning arc:
+- ⚙️ .NET & C#
+- 🌐 React
+- 🗄️ SQL Server
+- 🔗 REST APIs & SSO
+- 🐳 Docker
+- ☁️ Cloud & Microservices
+- 🏗️ System Design & Architecture
 
-- To blend creativity and technology — building tools that solve real-world problems while expressing unique ideas.
+## 💻 Tech Stack
 
-📫 Connect
+**Languages**
+- Apex
+- JavaScript
+- C# (Learning)
+- SQL
 
-- Let’s collaborate on open-source or innovative Salesforce and design projects!
-<!---
-Yogii473/Yogii473 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frameworks & Platforms**
+- Salesforce
+- Lightning Web Components
+- .NET
+- React
+
+**Tools**
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
+
+## 🌱 Currently Working On
+
+- Learning enterprise architecture
+- Building scalable integrations
+- Understanding product infrastructure
+- Contributing to enterprise software
+
+## 🎯 2026 Goals
+
+- Master .NET ecosystem
+- Become confident in System Design
+- Build production-ready full-stack projects
+- Move toward Technical Architect role
+- Launch my own SaaS products
+
+## 📚 Philosophy
+
+> Learn deeply. Build intentionally. Stay curious.
+
+## ⚡ Fun Fact
+
+Most people chase frameworks.
+I'm chasing fundamentals.
+
+Because frameworks change.
+Architecture stays.
+
+---
